@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [here!](here!)
 
-- 📄 Know about my experiences! [i use Arch Linux, btw!](i use Arch Linux, btw!)
+- 📄 Know about my experiences! I learned English and is using Arch Linux!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
